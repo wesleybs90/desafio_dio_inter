@@ -1,2 +1,2 @@
-# desafio_dio_inter
+# Desafio Projeto DIO - Inter Frontend
 Repositório para a atividade da trilha Inter Frontend da DIO
